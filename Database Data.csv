@@ -1,0 +1,11 @@
+movieID,title,studio,genres,directors,writers,actors,year,length,shortDescription,mpaRating,criticsRating
+1,Dangal ,Aamir Khan Studios,"Biographical,Sports",Nitesh Tiwari,Nitesh Tiwari,"Aamir Khan,Fatima Sana Shaikh,Sakshi Tanwar",2016,161,A former wrestler trains his daughters in wrestling.,PG,8.4
+2,Sanju ,Rajkumar ,"Biography,Drama",Rajkumar Hirani,Rajkumar Hirani,"Ranbir Kapoor,Vicky Kaushal ,Paresh Rawal",2018,161,A biographical film based on the life of Sanjay Dutt.,PG,7.8
+3,PK,Vinod,"Comedy,Drama,Fantasy",Rajkumar Hirani,Rajkumar Hirani,"Aamir Khan,Anushka Sharma,Sushant Singh Rajput",2014,153,An alien arrives on Earth and questions religious beliefs.,PG,8.1
+4,Golmaal,Rohit Shetty,Comedy,Rohit Shetty,Rohit Shetty,"Ajay Devgn,Arshad Warsi,Tusshar Kapoor",2006,150,A group of friends gets involved in hilarious situations.,PG,7.3
+5,Tiger,Yash Raj,"Action,Thriller,Romance",Ali Abbas Zafar,Ali Abbas Zafar,"Salman Khan,Katrina Kaif,Girish Karnad",2017,161,An Indian spy is sent on a mission to save his country.,R,5.0
+6,Bajrangi Bhaijaan,Salman Khan,"Adventure,Comedy, Drama",Kabir Khan,Kabir Khan,"Salman Khan,Kareena Kapoor,Nawazuddin Siddiqui",2015,163,A man helps a lost Pakistani girl reunite with her family.,PG,8.0
+7,Padmaavat,Bhansali,"Drama,History,Romance",Sanjay Leela Bhansali,Sanjay Leela Bhansali,"Deepika Padukone,Shahid Kapoor,Ranvir Singh",2018,164,A historical drama about a queen and a king’s obsession.,G,7.0
+8,Sultan,Yash Raj,"Action,Drama,Romance",Ali Abbas Zafar,Ali Abbas Zafar,"Salman Khan,Anushka Sharma,Randeep Hooda",2016,170,A wrestler fights personal and professional challenges.,G,7.0
+9,3 Idiots,Vinod,"Comedy,Drama",Rajkumar Hirani,Rajkumar Hirani,"Aamir Khan,R.Madhavan,Sharman Joshi",2009,170,Three friends embark on a journey to find their lost friend.,PG,8.4
+10,Kabir Singh,Cine1,"Drama,Romance",Sandeep Reddy Vanga,Sandeep Reddy Vanga,"Shahid Kapoor,Kiara Adani",2019,172,"An exalted but short-fused surgeon plunges into a spiral of drugs, alcohol and rage after his intense relationship with his girlfriend turbulently ends.",PG,7.0
